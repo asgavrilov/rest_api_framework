@@ -11,6 +11,7 @@ import io.qameta.allure.junit4.DisplayName;
 import io.qameta.allure.junit4.Tag;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
+
 import java.util.ArrayList;
 import java.util.List;
 
